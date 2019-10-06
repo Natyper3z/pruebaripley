@@ -48,4 +48,4 @@ Actualmente, el sistema consta de 2 variables de entorno:
 - La página cuenta con productos visitados recientemente.
 - El diseño está basado completamente en la página oficial, sin embargo, hay variaciones por simplicidad.
 - Se desarrolló con React 16.8, haciendo uso extensivo de Hooks.
-- Al momento de desarrollar, se utilizó VSCode, con los plugins Prettier + ESLint para mayor claridad del código.
+- Al momento de desarrollar, se utilizó Sublome Text, con los plugins Prettier + ESLint para mayor claridad del código.
