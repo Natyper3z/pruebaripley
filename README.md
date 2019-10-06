@@ -1,6 +1,8 @@
-# Prueba Técnica
+# Prueba De Selección
 
-Realizada con NodeJS y ReactJS (ES6). Consiste en un pequeño catálogo de productos, con sus detalles. Adicionalmente, la aplicación se conecta con la API Simple Ripley, guardando todas sus respuestas en Redis.
+Se busca crear una aplicación web que muestre una vista simple de catalogo de productos de
+Ripley y al pinchar sobre un producto se muestre su ficha descriptiva con su información de
+forma similar en como se presenta actualmente en el sitio web.
 
 ## Deploy
 
@@ -42,10 +44,8 @@ Actualmente, el sistema consta de 2 variables de entorno:
 
 ## Consideraciones Adicionales
 
-- La aplicación no cuenta con testings.
 - Se cargaron de manera estática 25 SKUs.
-- La página cuenta con barra de búsqueda por SKU.
+- La página cuenta con barra de búsqueda por SKU Conectada al portal simple.ripley.cl
 - La página cuenta con productos visitados recientemente.
-- El diseño está basado completamente en la página oficial, sin embargo, hay variaciones por simplicidad.
-- Se desarrolló con React 16.8, haciendo uso extensivo de Hooks.
-- Al momento de desarrollar, se utilizó Sublime Text, con los plugins Prettier + ESLint para mayor claridad del código.
+- El diseño esta basado en la página oficial,  pero simplificado.
+- Se desarrollo con Sublime Text.
