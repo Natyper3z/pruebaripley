@@ -5,7 +5,7 @@ Ripley y al pinchar sobre un producto se muestre su ficha descriptiva con su inf
 forma similar en como se presenta actualmente en el sitio web.
 
 
-## Si se necesita mas información para deployarla solicitar!
+# Si se necesita mas información para deployarla solicitar!
 
 # Se utilizo Redis (puerto 6379 ), nodeJS, heroku, ReactJS, docker
 
